@@ -1,0 +1,10 @@
+#header {
+    padding-top: 300px;
+    text-align: center;
+    font-size: 20px;
+}
+
+.btn {
+    position:relative;
+    left:35%;
+}
