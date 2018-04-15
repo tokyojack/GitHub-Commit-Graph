@@ -16,4 +16,4 @@ In the index page, put your desired GitHub username, and it'll show you their co
 
 ##
 
-Now you've just install the program! A ton of people are gonna be jealous of your super fancy graphs now!  ```◕3◕```!
+Now you've just install the program! A ton of people are gonna be jealous of your super fancy graphs now ```◕3◕```!
