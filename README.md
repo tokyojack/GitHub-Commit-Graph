@@ -7,8 +7,8 @@
 
 1. Clone this repo ```git clone https://github.com/tokyojack/GitHub-Commit-Graph```
 2. Run ```pip install beautifulsoup4==4.6.0 requests==2.18.4 flask==0.12.2``` for the packages
-4. Run it with ```python app.py``` in your console.
-6. Check out it within your browser.
+3. Run it with ```python app.py``` in your console.
+4. Check out it within your browser.
 
 ## Usage
 
