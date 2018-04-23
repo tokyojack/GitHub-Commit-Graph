@@ -8,7 +8,8 @@ req.onreadystatechange = function() {
             var response = JSON.parse(req.responseText)
 
             if (response.status !== "OK") {
-                console.log("err")
+                console.log("An error has occured")
+				console.log("Status: " + response.status)
                 document.getElementById('chart-area').innerHTML = "<p class='error'>Error: could not find that username</p>"
                 return
             }
